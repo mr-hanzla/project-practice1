@@ -42,7 +42,7 @@ import SupportIcon from "./icons/IconSupport.vue";
       href="https://github.com/johnsoncodehk/volar"
       target="_blank"
       rel="noopener"
-      >Volar</a
+      >Anas</a
     >. If you need to test your components and web pages, check out
     <a href="https://www.cypress.io/" target="_blank" rel="noopener">Cypress</a>
     and
